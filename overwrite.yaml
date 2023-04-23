@@ -1,0 +1,6 @@
+name: Route openai.com and bing.com to 🇺🇸美国ChatGPT专用
+desc: Route all traffic from openai.com and bing.com to 🇺🇸美国ChatGPT专用 proxy for a better experience.
+
+rules:
+  - DOMAIN-SUFFIX,openai.com,🇺🇸美国ChatGPT专用
+  - DOMAIN-SUFFIX,bing.com,🇺🇸美国ChatGPT专用
